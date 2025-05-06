@@ -9,6 +9,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY4NHc3YTVlMXJubW93MDJieGZkMnI5dWY4bDhtOHU1MHlwYjZkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zUn8hAwJwG4abiS0p/giphy.gif"  />
 
 ###
@@ -40,8 +42,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Hilfum/Hilfum/output/snake.svg" alt="Snake animation" />
 
