@@ -51,5 +51,6 @@
 
 <!-- Snake animation -->
 
-![snake gif](https://github.com/Hilfum/Hilfum/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/Hilfum/Hilfum/output/github-contribution-grid-snake.svg" />
+
 ###
