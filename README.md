@@ -1,14 +1,5 @@
 <h2 align="left">Hi 👋! My name is Hilfum and I'm a student</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hilfum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hilfum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
 <br clear="both" />
 
 <img align="right" height="150" src="https://media0.giphy.com/media/WTL02R1L7YCGUEunFy/giphy.gif?cid=ecf05e47v3ch9hceolgc8pucv6aav1vvu7hhy8rvxwgyb11y&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
